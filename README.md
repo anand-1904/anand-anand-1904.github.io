@@ -1,1 +1,12 @@
-
+My Website
+-This is a responsive website built with HTML, CSS, and JavaScript. It showcases interactive features, input/output handling, and dynamic content updates.
+-**Features:**
+- Clean and modern design
+- Responsive layout for various devices
+- Interactive forms and user input handling
+- Dynamic content rendering with JavaScript
+- Easy navigation and user-friendly interface
+-**Technologies Used:**
+- HTML for structure
+- CSS for styling and layout
+- JavaScript for interactivity and dynamic content
